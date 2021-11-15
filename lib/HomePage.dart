@@ -22,7 +22,6 @@ class _HomePageState extends State<HomePage> {
   );
 
 
-
   BannerAd? _anchoredBanner;
   bool _loadingAnchoredBanner = false;
 
